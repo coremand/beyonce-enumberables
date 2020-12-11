@@ -29,17 +29,17 @@ beyonceHash = {
 
 # 1. puts all the songs
 # 2. puts all the movies
-# 3. create an array with a list of all of Beyonce's hit song titles
+## 3. create an array with a list of all of Beyonce's hit song titles
 # 4. create an array with a list of all of Beyonce's fierceness ratings
 # 5. give me all the songs where Beyonce is wearing a bodysuit or a bodysuit is part of the video theme
-# 6. create an array with all of the songs where Beyonce's fierceness is greater than or equal to 8
+## 6. create an array with all of the songs where Beyonce's fierceness is greater than or equal to 8
 # 7. create an array with all of the movies Beyonce made in 2006 and after
 # 8. find all the hit songs where beyonce was in a group
 # 9. find a hit song where Beyonce's hair is blonde
-# 10. find the hit song sorry
+## 10. find the hit song sorry
 # 11. find all hit songs where Beyonce's fierceness rating is 10
 # 12. sum up Beyonces fierceness value for all of her hit songs
-# 13. get the average fierceness value for all of her hit songs
+## 13. get the average fierceness value for all of her hit songs
 # 14. sum up Beyonces rating value for all of her movies
 # 15. get the average rating value for all of her movies
 # 16. sum up the total number of dancers in all of the hit song videos
